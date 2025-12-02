@@ -23,9 +23,8 @@
 		Volume =πR^2 xH     The value of π is 3.1417</li>
   <li>Write a program using define directive to find the area of a circle. The formula to find the area ofa circle is:
 		Area =πR^2      The value of π is 3.1417</li>
-  <li>Write a program using define directive to find the area of a circle. The formula to find the area of a circle is:
-		Area =πR^2      The value of π is 3.1417</li>
-  <li>14.	Write a program to convert millimeters into inches and print the result on screen. (Hint: 1 inch = 25.4 mm)</li>
+  
+  <li>Write a program to convert millimeters into inches and print the result on screen. (Hint: 1 inch = 25.4 mm)</li>
   <li>Write a program to interchange values of two variables.</li>
   <li>Write a program to assign a value 3 to "int" type variables a, b and c using multiple assignment statement. Calculate the product of these numbers.</li>
   <li>Write a program to separate the integral and fractional parts of a 15.58971 real number and print the result on screen.</li>
